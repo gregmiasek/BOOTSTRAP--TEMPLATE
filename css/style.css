@@ -1,0 +1,19 @@
+.container-example {
+    background-color: blue;
+    color: white;
+}
+
+
+.container-fluid-example {
+    background-color: red;
+    color: white;
+}
+
+
+.col-example:nth-child(odd) {
+    background-color: pink;
+}
+
+.col-example:nth-child(even) {
+    background-color: green;
+}
